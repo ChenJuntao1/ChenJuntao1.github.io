@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Juntao Chen, a senior undergraduate student in Chongqing University of Arts and Sciences-University of North Carolina Wilmington (CQWU-UNCW Joint bachelor’s degree Program) [School of Mathematics and Big Data].(https://mathinternational.cqwu.edu.cn/)
+My name is Juntao Chen, a senior undergraduate student in Chongqing University of Arts and Sciences-University of North Carolina Wilmington (CQWU-UNCW Joint bachelor’s degree Program) [School of Mathematics and Big Data].(https://mathinternational.cqwu.edu.cn/) I am studying for my fourth year. I have a strong motivation to apply for a doctoral degree in statistics.
 
 A data-driven personal website
 ======
