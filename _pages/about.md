@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Juntao Chen, a senior undergraduate student in Chongqing University of Arts and Sciences-University of North Carolina Wilmington (CQWU-UNCW Joint bachelor’s degree Program)[School of EECS](https://www.cqwu.edu.cn/)(https://uncw.edu/)
+My name is Juntao Chen, a senior undergraduate student in Chongqing University of Arts and Sciences-University of North Carolina Wilmington (CQWU-UNCW Joint bachelor’s degree Program)[(https://www.cqwu.edu.cn/)(https://uncw.edu/)](https://mathinternational.cqwu.edu.cn/)
 
 A data-driven personal website
 ======
