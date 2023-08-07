@@ -10,6 +10,8 @@ redirect_from:
 
 My name is Juntao Chen, a senior undergraduate student in Chongqing University of Arts and Sciences-University of North Carolina Wilmington (CQWU-UNCW Joint bachelor’s degree Program) [School of Mathematics and Big Data](https://mathinternational.cqwu.edu.cn/).I am studying for my fourth year. I have a strong motivation to apply for a doctoral degree in statistics.
 
+I am pursuing a major in Mathematics and Applied Mathematics. Over the past three years, I have diligently cultivated a robust understanding of mathematics, statistics, and computer science. Alongside this academic journey, a profound fascination with the realm of statistics has taken root within me. This interest has been nurtured through active participation in diverse course projects and research pursuits, ultimately cementing my dedication to the field of statistics.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
