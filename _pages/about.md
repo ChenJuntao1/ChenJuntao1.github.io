@@ -14,7 +14,6 @@ I am pursuing a major in Mathematics and Applied Mathematics. Over the past thre
 
 You can find my CV here:[Juntao Chen's Curriculum Vitae](../assets/CV-Juntao Chen.pdf).
 
-[Email](mailto:juntaochen1@126.com) / [Github](https://chenjuntao1.github.io/)
 
 
 
