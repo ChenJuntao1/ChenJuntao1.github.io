@@ -1,3 +1,4 @@
+---
 title: "The Prediction of Chongqing's GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model"
 collection: publications
 permalink: /publication/2023-chongqing-gdp-prediction
