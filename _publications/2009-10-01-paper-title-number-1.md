@@ -9,7 +9,7 @@ volume: "Volume Number"
 issue: "Issue Number"
 pages: "Page Numbers"
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this study, we propose an innovative approach for Chongqing's GDP prediction, combining the LASSO method with the CWOA-BP-ARIMA model. Through meticulous feature selection based on Pearson correlation and Lasso regression, we identify key economic indicators linked to Chongqing's GDP. 
 
 [Download paper here](http://ChenJuntao1.github.io/files/My paper1.pdf)
 
