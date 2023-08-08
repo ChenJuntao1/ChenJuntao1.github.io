@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Juntao / Personal Homepage"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Chen Juntao(陈俊滔)"
+name                     : &name "Chen Juntao (陈俊滔)"
 description              : &description "a fourth year undergraduate student from Chongqing MBTI:INTJ "
 url                      : https://chenjuntao1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
