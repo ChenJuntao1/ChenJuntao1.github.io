@@ -12,7 +12,7 @@ A PDF of my CV is available [here](../assets/CV-Juntao Chen.pdf) for more detail
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics,Chongqing University of Arts and Sciences, China,Sep. 2020-present 
+* B.S. in Mathematics and Applied Mathematics,Chongqing University of Arts and Sciences, China, Sep. 2020-present 
 
 
 Awards & Honors
