@@ -11,5 +11,5 @@ pages: "Page Numbers"
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/My paper1.pdf)
+[Download paper here](http://ChenJuntao1.github.io/files/My paper1.pdf)
 
