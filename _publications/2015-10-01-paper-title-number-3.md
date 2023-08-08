@@ -1,15 +1,14 @@
----
-title: "Paper Title Number 3"
+title: "The Prediction of Chongqing's GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2023-chongqing-gdp-prediction
+excerpt: 'In this study, we propose an innovative approach for Chongqing's GDP prediction, combining the LASSO method with the CWOA-BP-ARIMA model.'
+date: 2023-08-03
+venue: 'Scientific Reports'
+paperurl: 'http://ChenJuntao1.github.io/files/My_paper1.pdf'
+citation: 'Chen, J., & Wu, J. (2023). "The Prediction of Chongqing\'s GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model." <i>Scientific Reports</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+In this study, we propose an innovative approach for Chongqing's GDP prediction, combining the LASSO method with the CWOA-BP-ARIMA model. Through meticulous feature selection based on Pearson correlation and Lasso regression, we identify key economic indicators linked to Chongqing's GDP.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://ChenJuntao1.github.io/files/My_paper1.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Chen, J., & Wu, J. (2023). "The Prediction of Chongqing's GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model." <i>Scientific Reports</i>.
