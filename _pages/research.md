@@ -20,6 +20,6 @@ In this study, we propose an innovative approach for predicting Chongqing's GDP.
 Chen, J., & Wu, J. (2023). "The Prediction of Chongqing's GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model." *Scientific Reports*.
 
 [Download Paper](http://ChenJuntao1.github.io/files/My%20paper1.pdf)
+[Download Poster](http://ChenJuntao1.github.io/files/My%20poster1.pdf)
 
 ## 2. The Prediction of XXX
-[Download Poster](http://ChenJuntao1.github.io/files/My%20poster1.pdf)
