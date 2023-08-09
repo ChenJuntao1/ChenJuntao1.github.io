@@ -1,44 +1,17 @@
 ---
 layout: archive
-title: "Research Publications"
-permalink: /research/publications/
+title: "Research"
+permalink: /Research/
 author_profile: true
-redirect_from: 
-  - /Research/
+---
+### title: "The Prediction of Chongqing's GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model"
+### collection: publications
+### excerpt: "In this study, we propose an innovative approach for Chongqing's GDP prediction, combining the LASSO method with the CWOA-BP-ARIMA model."
+
+citation: "Chen, J., & Wu, J. (2023). \"The Prediction of Chongqing's GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model.\" <i>Scientific Reports</i>."
+
 ---
 
-## Chongqing's GDP Prediction
+In this study, we propose an innovative approach for Chongqing's GDP prediction, combining the LASSO method with the CWOA-BP-ARIMA model. Through meticulous feature selection based on Pearson correlation and Lasso regression, we identify key economic indicators linked to Chongqing's GDP.
 
-**Publication Date:** August 8, 2023  
-**Venue:** Scientific Reports  
-**Authors:** Jun Chen, Jie Wu  
-
-### Abstract
-
-This study presents an innovative hybrid approach for predicting Chongqing's GDP, integrating the LASSO method with the Chaotic Whale Group Algorithm (CWOA), Back Propagation Neural Network (BPNN), and ARIMA model. Through meticulous feature selection using Pearson correlation and Lasso regression, key economic indicators influencing Chongqing's GDP are identified.
-
-[Download Paper](http://ChenJuntao1.github.io/files/My%20paper1.pdf)
-
-## Urbanization Trends in Chongqing
-
-**Publication Date:** September 15, 2023  
-**Venue:** Urban Studies Journal  
-**Authors:** Jun Chen, Li Zhang  
-
-### Abstract
-
-This research delves into the evolving urbanization trends in Chongqing. By employing a combination of spatial analysis, demographic data, and satellite imagery, we uncover significant patterns in urban growth, migration, and infrastructure development that have shaped the city's landscape.
-
-[Download Paper](http://ChenJuntao1.github.io/files/My%20paper2.pdf)
-
-## Environmental Sustainability in Chongqing
-
-**Publication Date:** October 22, 2023  
-**Venue:** Environmental Science Quarterly  
-**Authors:** Jun Chen, Mei Wang  
-
-### Abstract
-
-This study evaluates the state of environmental sustainability in Chongqing by examining air quality, water pollution, and green initiatives. Utilizing a comprehensive dataset and advanced statistical methods, we provide insights into the current environmental challenges and potential strategies for a more sustainable future.
-
-[Download Paper](http://ChenJuntao1.github.io/files/My%20paper3.pdf)
+[Download paper here](http://ChenJuntao1.github.io/files/My%20paper1.pdf)
