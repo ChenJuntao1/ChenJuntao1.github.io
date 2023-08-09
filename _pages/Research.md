@@ -1,19 +1,23 @@
 ---
 layout: archive
-title: "Research"
-permalink: /Research/
+title: "Research on Predictive Modeling for Chongqing's GDP"
+permalink: /research/chongqing-gdp-prediction/
 author_profile: true
-redirect_from:
----
-title: "The Prediction of Chongqing's GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model"
-collection: publications
-excerpt: "In this study, we propose an innovative approach for Chongqing's GDP prediction, combining the LASSO method with the CWOA-BP-ARIMA model."
-date: 2023-08-08
-venue: "Scientific Reports"
-citation: "Chen, J., & Wu, J. (2023). \"The Prediction of Chongqing's GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model.\" <i>Scientific Reports</i>."
-
+redirect_from: 
+  - /Research/
 ---
 
-In this study, we propose an innovative approach for Chongqing's GDP prediction, combining the LASSO method with the CWOA-BP-ARIMA model. Through meticulous feature selection based on Pearson correlation and Lasso regression, we identify key economic indicators linked to Chongqing's GDP.
+## The Prediction of Chongqing's GDP Using a Hybrid Approach
 
-[Download paper here](http://ChenJuntao1.github.io/files/My%20paper1.pdf)
+**Publication Date:** August 8, 2023  
+**Venue:** Scientific Reports  
+**Authors:** Jun Chen, Jie Wu  
+
+### Abstract
+
+In this research, we present a novel approach for predicting Chongqing's GDP by integrating the LASSO method with the Chaotic Whale Group Algorithm (CWOA), Back Propagation Neural Network (BPNN), and ARIMA model. Our method involves careful feature selection using both Pearson correlation analysis and Lasso regression techniques, enabling us to identify the most influential economic indicators linked to Chongqing's GDP.
+
+### Download Paper
+
+You can access the full paper titled "The Prediction of Chongqing's GDP Using a Hybrid Approach of LASSO, CWOA, BPNN, and ARIMA" by Jun Chen and Jie Wu [here](http://ChenJuntao1.github.io/files/My%20paper1.pdf).
+
