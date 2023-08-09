@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research on Predictive Modeling for Chongqing's GDP"
-permalink: /research/chongqing-gdp-prediction/
+permalink: /Research/
 author_profile: true
 redirect_from: 
   - /Research/
