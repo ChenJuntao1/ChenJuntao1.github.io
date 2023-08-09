@@ -6,18 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+title: "The Prediction of Chongqing's GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model"
+collection: publications
+excerpt: "In this study, we propose an innovative approach for Chongqing's GDP prediction, combining the LASSO method with the CWOA-BP-ARIMA model."
+date: 2023-08-08
+venue: "Scientific Reports"
+citation: "Chen, J., & Wu, J. (2023). \"The Prediction of Chongqing's GDP Based on the LASSO Method and Chaotic Whale Group Algorithm - Back Propagation Neural Network - ARIMA Model.\" <i>Scientific Reports</i>."
 
-{% include base_path %}
-A PDF of my CV is available [here](../assets/CV-Juntao Chen.pdf) for more details.123444445888866
+---
 
-Education
-======
-* B.S. in Mathematics and Applied Mathematics,Chongqing University of Arts and Sciences, China, Sep. 2020-present 
+In this study, we propose an innovative approach for Chongqing's GDP prediction, combining the LASSO method with the CWOA-BP-ARIMA model. Through meticulous feature selection based on Pearson correlation and Lasso regression, we identify key economic indicators linked to Chongqing's GDP.
 
-
-Awards & Honors
-======
-  * University-level Special Scholarships (2021, 2022 and 2023)
-  * Professional First-Class Scholarship (2021, 2022 and 2023)
-  * National Inspirational Scholarship (2021 and 2022)
-  * Second prize of the National University Student Statistical Modeling Competition (2022 and 2023)
+[Download paper here](http://ChenJuntao1.github.io/files/My%20paper1.pdf)
